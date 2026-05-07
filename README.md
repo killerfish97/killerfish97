@@ -1,31 +1,80 @@
-# Hi 👋, I'm Nithin K R
+<h1 align="center">Hi 👋, I'm Nithin K R</h1>
 
-### A passionate Full Stack Developer
+<h3 align="center">
+Python Developer | Full Stack Developer | ML Enthusiast
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=killerfish97&label=Profile views&color=0e75b6&style=flat" alt="killerfish97" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=killerfish97" alt="killerfish97" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/killer_fish97" target="blank"><img src="https://img.shields.io/twitter/follow/killer_fish97?logo=twitter&style=for-the-badge" alt="killer_fish97" /></a> </p>
-
-- 📫 How to reach me **krnithingowda97@gmail.com**
-
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1oa5TF-s7KunwUrNo-_IyjFBChKTXQTUK/view?usp=sharing](https://drive.google.com/file/d/1oa5TF-s7KunwUrNo-_IyjFBChKTXQTUK/view?usp=sharing)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/killerfish97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="killerfish97" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/nithin-k-r-7256a8145/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/nithin-k-r-7256a8145/" height="30" width="40" /></a>
-<a href="https://twitter.com/killer_fish97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="killer_fish97" height="30" width="40" /></a>
-<a href="https://leetcode.com/leetcode.com/u/ULRxLsgjJi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/u/ULRxLsgjJi/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Developer;Full+Stack+Developer;Machine+Learning+Engineer;Backend+Developer" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/heroku" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=heroku" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a></p>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=killerfish97.killerfish97" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=killerfish97&show_icons=true&locale=en&layout=compact" alt="killerfish97" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=killerfish97&show_icons=true&locale=en" alt="killerfish97" /></p>
+## 🏆 Profile Summary
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=killerfish97&" alt="killerfish97" /></p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=killerfish97&theme=github_dark" width="100%"/>
+</p>
 
+## 🚀 About Me
+
+- 🌱 Currently learning **Machine Learning & React.js**
+- 💬 Ask me about **Python, Django, React, APIs**
+- 📫 Reach me at **krnithingowda97@gmail.com**
+- 📄 Resume: [View Resume](https://drive.google.com/file/d/1oa5TF-s7KunwUrNo-_IyjFBChKTXQTUK/view?usp=sharing)
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/killerfish97" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+
+  <a href="https://linkedin.com/in/nithin-k-r-7256a8145/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <a href="https://twitter.com/killer_fish97" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+
+  <a href="https://leetcode.com/u/ULRxLsgjJi/" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode" />
+  </a>
+
+  <a href="mailto:krnithingowda97@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,react,nodejs,mongodb,mysql,sqlite,html,css,js,tailwind,bootstrap,git,github,postman,tensorflow,pandas,numpy" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=killerfish97&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=killerfish97&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=killerfish97&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
