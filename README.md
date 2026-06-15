@@ -101,11 +101,7 @@
 
 # 🏆 GitHub Trophies
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=killerfish97&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15&cache_seconds=86400)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=killerfish97&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" /> </div>
 
 ---
 
